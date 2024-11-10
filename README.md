@@ -1,6 +1,6 @@
 # Sprunki Retake - Horror-Themed Music Creation Game
 
-🎮 [Play Sprunki Retake Online For Free](https://sprunkiretake.app/)
+🎮 [Play Sprunki Retake Online For Free](https://sprunki-retake-online.github.io/)
 
 ## Welcome to Sprunki Retake
 
@@ -99,7 +99,7 @@ Experience smooth gameplay with:
 
 ## How to Begin Your Journey
 
-1. Visit [https://sprunkiretake.app/](https://sprunkiretake.app/)
+1. Visit [https://sprunki-retake-online.github.io/](https://sprunki-retake-online.github.io/)
 2. Choose your preferred game mode
 3. Start creating horror-themed music
 4. Share your creations with the community
@@ -114,7 +114,7 @@ Join the Sprunki Retake community:
 
 ## Screenshots
 
-![Sprunki Retake Main Interface](https://github.com/qiayue/Sprunki-Retake/blob/main/SprunkiRetake.app.png?raw=true)
+![Sprunki Retake Main Interface](https://github.com/sprunki-retake-online/sprunki-retake-online.github.io/blob/main/SprunkiRetake.app.png?raw=true)
 *The haunting main interface of Sprunki Retake*
 
 
@@ -128,4 +128,4 @@ Need help with Sprunki Retake?
 
 ---
 
-Experience the future of horror-themed music creation with Sprunki Retake. Visit [https://sprunkiretake.app/](https://sprunkiretake.app/) to begin your journey into the dark realm of musical creativity.
+Experience the future of horror-themed music creation with Sprunki Retake. Visit [https://sprunki-retake-online.github.io/](https://sprunki-retake-online.github.io/) to begin your journey into the dark realm of musical creativity.
